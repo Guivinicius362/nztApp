@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "268525072706",
+    "firebase_url": "https://nazateenapp-c442d.firebaseio.com",
+    "project_id": "nazateenapp-c442d",
+    "storage_bucket": "nazateenapp-c442d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268525072706:android:c075c97a2b6922e3",
+        "android_client_info": {
+          "package_name": "com.nazateenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268525072706-rivos734rm1r4s1cdo3mlhfb9ehigmlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXHkqjNBUfgEeSXr_Itf11f--ADQiwp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268525072706:android:9489c861e9fbe83e",
+        "android_client_info": {
+          "package_name": "com.nzt.nazateen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268525072706-rivos734rm1r4s1cdo3mlhfb9ehigmlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXHkqjNBUfgEeSXr_Itf11f--ADQiwp8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
